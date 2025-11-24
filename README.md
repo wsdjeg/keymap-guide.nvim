@@ -1,4 +1,4 @@
-# guide.nvim
+# keymap-guide.nvim
 
 
 ```lua
